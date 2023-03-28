@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-D:\SumCode\code\basic\2.4字符串+内存函数的介绍\2.4字符串+内存函数的介绍\FileName.cpp(755,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
-D:\SumCode\code\basic\2.4字符串+内存函数的介绍\2.4字符串+内存函数的介绍\FileName.cpp(755,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
-  2.4字符串+内存函数的介绍.vcxproj -> D:\SumCode\code\basic\2.4字符串+内存函数的介绍\x64\Debug\2.4字符串+内存函数的介绍.exe
