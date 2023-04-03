@@ -1,3 +1,0 @@
-﻿  text.c
-D:\SumCode\code\basic\2.6通讯录（Contact）\2.6通讯录（Contact）\text.c(1,1): warning C4828: 文件包含在偏移 0x869 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  Contact Dynamic.vcxproj -> D:\SumCode\code\basic\Contact Dynamic\x64\Debug\2.6.1Contact Dynamic.exe
